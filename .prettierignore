@@ -1,0 +1,14 @@
+/dist/*
+.local
+.output.js
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+**/*.svg
+**/*.sh
+
+/public/*
+/src/assets
